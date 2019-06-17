@@ -1,0 +1,13 @@
+{
+    "name": "imber/slim",
+    "description": "essai slim",
+    "authors": [
+        {
+            "name": "jules imbert",
+            "email": "imbertjules@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
